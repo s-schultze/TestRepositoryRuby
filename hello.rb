@@ -1,5 +1,5 @@
 # Programm zum Anzeigen von Hello World
-# Local changed
+# Online changed
 puts '------------'
 puts 'Hello World!'
 puts '------------'
