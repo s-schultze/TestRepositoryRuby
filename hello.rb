@@ -4,4 +4,4 @@ puts '------------'
 puts 'Hello World!'
 puts '------------'
 name = gets
-puts 'Hallo' + name
+puts 'Hallo ' + name
